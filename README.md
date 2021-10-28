@@ -262,5 +262,4 @@ nohup glances -w -p 52962 --disable-plugin docker --password &
 4) [Motion detection system](https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/)
 5) [Creating slack apps](https://api.slack.com/slack-apps)
 6) [Flask Video Streaming](https://blog.miguelgrinberg.com/post/flask-video-streaming-revisited)
-#   H o m e - S e c u r i t y - S y s t e m  
- 
+
